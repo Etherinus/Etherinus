@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="#" target="_blank">Thomas Rendes</a> (aka <i>Etherinus</i>)
+<h1 align="center">Hi there, I'm <a href="" target="_blank">Thomas Rendes</a> (aka <i>Etherinus</i>)
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Game Developer | 3D Designer | Rust Server Developer</h3>
 

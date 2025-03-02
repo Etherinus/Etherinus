@@ -43,13 +43,16 @@ Today, I:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Etherinus&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=Etherinus&show_icons=true&theme=tokyonight&cache_seconds=1800" 
+       alt="GitHub Stats" />
 </p>
 
-<!---For a compact version-->
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Etherinus&layout=compact" alt="Top Languages" />
+    <img 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Etherinus&layout=compact&langs_count=8&cache_seconds=1800" 
+         alt="Top Languages" />
   </a>
 </p>
 

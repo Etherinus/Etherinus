@@ -62,10 +62,10 @@ Today, I:
 
 <p align="center">
   <img
-      src="https://github-readme-stats.vercel.app/api?username=Etherinus&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&cache_seconds=1800"
+      src="https://github-readme-stats.vercel.app/api?username=Etherinus&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&cache_seconds=600"
       alt="GitHub Stats" /> &nbsp; <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Etherinus&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&cache_seconds=1800"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Etherinus&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&cache_seconds=600"
         alt="Top Languages" />
   </a>
 </p>

@@ -44,6 +44,7 @@ Today, I:
 ### 🔧 General & System:
 ![Java](https://img.shields.io/badge/Java-EA360F?style=flat&logo=openjdk&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
 
 🔹 In addition to programming, I focus on **code optimization**, **creating flexible game mechanics**, and **designing efficient architectural solutions** for servers.
 

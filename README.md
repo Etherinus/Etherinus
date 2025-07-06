@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-For me, programming is not just a job—it's a way to create worlds, bring ideas to life, and turn fantasies into code. Ever since I was a kid, I was fascinated by games, and I always dreamed of not only playing but also developing my own virtual universes. This passion led me into **game development**, where I now focus on **Rust server development, Unity game creation, and 3D design**.
+For me, programming is not just a job-it's a way to create worlds, bring ideas to life, and turn fantasies into code. Ever since I was a kid, I was fascinated by games, and I always dreamed of not only playing but also developing my own virtual universes. This passion led me into **game development**, where I now focus on **Rust server development, Unity game creation, and 3D design**.
 
 Today, I:
 - 🕹 **Unity Developer** — develop game mechanics and gameplay systems using **C#**;

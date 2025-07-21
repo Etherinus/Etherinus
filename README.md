@@ -52,11 +52,11 @@ When the keyboard rests, I recharge by:
 ## 📊 GitHub Analytics
 <div align="center">
 
-<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Etherinus&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Etherinus&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&cache_seconds=600" />
 
-<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Etherinus&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff" />
+<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Etherinus&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&cache_seconds=600" />
 
-<img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Etherinus&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" />
+<img alt="GitHub Streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=Etherinus&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&cache_seconds=600" />
 
 </div>
 

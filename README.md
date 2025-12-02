@@ -26,6 +26,8 @@ In my professional life, I lead and contribute through the following roles:
 - 🏙 **Company Director at Allorent Networks**
 - 🧩 **Lead Developer at CodeFodder**
 - 🌐 **Lead Developer at Lanexor**
+- 🛡️ **Former Moderator on the Discord Platform**
+- 🛡️ **Former Moderator on the Revolt Platform**
 
 ---
 

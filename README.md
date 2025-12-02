@@ -64,28 +64,33 @@ Outside of development, I recharge through:
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
-<img  
-  alt="GitHub Stats"  
-  src="https://stats-bice-nu.vercel.app/api?username=Etherinus&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&include_all_commits=true&count_private=true&refresh=600" />
-
-<img  
-  alt="Top Languages"  
-  src="https://stats-bice-nu.vercel.app/api/top-langs/?username=Etherinus&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&langs_count=10&refresh=600" />
-
-<img 
-  alt="GitHub Streak" 
-  src="https://github-readme-streak-stats-eight.vercel.app/?user=Etherinus&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&refresh=600" />
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center" valign="top">
+      <img
+        alt="GitHub Stats"
+        src="https://stats-bice-nu.vercel.app/api?username=Etherinus&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&include_all_commits=true&count_private=true&refresh=600" />
+    </td>
+    <td align="center" valign="top">
+      <img
+        alt="Top Languages"
+        src="https://stats-bice-nu.vercel.app/api/top-langs/?username=Etherinus&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&langs_count=10&refresh=600" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <img 
+        alt="GitHub Streak" 
+        src="https://github-readme-streak-stats-eight.vercel.app/?user=Etherinus&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&refresh=600" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🤝 Let's Connect
 
-[![Mail](https://img.shields.io/badge/-etherinus.developer@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:etherinus.developer@gmail.com)  
-[![Discord](https://img.shields.io/badge/Discord-Etherinus-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/)
+[![Mail](https://img.shields.io/badge/-etherinus.developer@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:etherinus.developer@gmail.com) [![Discord](https://img.shields.io/badge/Discord-Etherinus-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/)
 
 Always open to collaborations and ambitious ideas.
 

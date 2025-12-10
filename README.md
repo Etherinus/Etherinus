@@ -3,7 +3,7 @@
 # <img src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" alt="wave" width="40"> Hey, I'm **Thomas Rendes**  
 aka **Etherinus**
 
-### Game Developer - 3D Designer - Rust Server Developer
+### Game Developer - 3D Designer - Web Developer
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Etherinus&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Etherinus)
 

@@ -12,12 +12,12 @@ aka **Etherinus**
 ---
 
 ## 🚀 About Me
-Programming for me is both creation and engineering: I build systems, mechanics, gameplay logic, and fully featured web interfaces with a strong focus on performance and clean architecture.
+For me, programming is equal parts creation and engineering. I design and ship gameplay systems, mechanics, netcode, backend services, and full-featured web interfaces with a strong focus on performance and clean architecture.
 
-I specialize in **Rust server development**, **Unity C# gameplay systems**, **React based frontend solutions**, and **3D asset creation**.  
-My experience covers full development cycles from prototypes to production features, including optimization, netcode work, and scalable system design.
+My core areas are **game development (Unity C# gameplay and tools)**, **networked systems and scalable backend logic**, **React frontend work**, and **3D asset creation**.
+I’ve worked across the full development cycle from prototypes to production, delivering optimized features and maintainable systems that scale.
 
-I also lead technical teams and oversee long-term development efforts across multiple organizations.
+I also lead technical teams and drive long-term development across multiple organizations.
 
 ---
 

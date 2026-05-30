@@ -93,7 +93,7 @@ Outside of development, I recharge through:
 
 ## 🤝 Let's Connect
 
-[![Mail](https://img.shields.io/badge/-etherinus.developer@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:etherinus.developer@gmail.com) [![Discord](https://img.shields.io/badge/Discord-Etherinus-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/)
+[![Mail](https://img.shields.io/badge/-etherinus.developer@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:etherinus.developer@gmail.com) [![Discord](https://img.shields.io/badge/Discord-Etherinus-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/852143636166737920)
 
 Always open to collaborations and ambitious ideas.
 

@@ -23,10 +23,7 @@ I also lead technical teams and drive long-term development across multiple orga
 
 ## 🏢 Leadership and Roles
 In my professional life, I lead and contribute through the following roles:
-- 🏙 **Company Director at Allorent Networks**
-- 🧩 **Lead Developer at CodeFodder**
-- 🌐 **Lead Developer at Lanexor Platform**
-- 🤖 **Lead Developer for the Lanecto Discord Bot**
+- 🏙 **Company Director at Kravnex**
 - 🛡️ **Former Moderator on the Discord Platform**
 - 🛡️ **Former Moderator on the Revolt Platform**
 

@@ -1,107 +1,317 @@
 <div align="center">
 
-# <img src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" alt="wave" width="40"> Hey, I'm **Thomas Rendes**  
-aka **Etherinus**
+<img src="https://media.tenor.com/0CpFOKGVaeMAAAAi/hand-waving-hand.gif" width="42" alt="Hello" />
 
-### Game Developer - 3D Designer - Web Developer
+# Thomas Rendes
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Etherinus&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Etherinus)
+### `Etherinus`
+
+<img
+src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=900&color=8B949E&center=true&vCenter=true&repeat=true&width=650&lines=Game+Developer;Backend+%26+Network+Engineer;Web+Developer;3D+Designer;Building+Games%2C+Tools+%26+Platforms"
+alt="Typing animation"
+/>
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Etherinus-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Etherinus)
+[![Kravnex](https://img.shields.io/badge/Kravnex-Organization-111111?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Kravnex)
+[![Discord](https://img.shields.io/badge/Discord-Etherinus-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.com/users/852143636166737920)
+[![Email](https://img.shields.io/badge/Email-etherinus%40kravnex.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:etherinus@kravnex.com)
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Etherinus\&label=Profile+Views\&color=6e7681\&style=flat)
+![GitHub Followers](https://img.shields.io/github/followers/Etherinus?label=Followers\&style=flat\&color=6e7681)
+![GitHub Stars](https://img.shields.io/github/stars/Etherinus?affiliations=OWNER%2CCOLLABORATOR\&style=flat\&label=Stars\&color=6e7681)
 
 </div>
 
 ---
 
-## 🚀 About Me
-For me, programming is equal parts creation and engineering. I design and ship gameplay systems, mechanics, netcode, backend services, and full-featured web interfaces with a strong focus on performance and clean architecture.
+## About Me
 
-My core areas are **game development (Unity C# gameplay and tools)**, **networked systems and scalable backend logic**, **React frontend work**, and **3D asset creation**.
-I’ve worked across the full development cycle from prototypes to production, delivering optimized features and maintainable systems that scale.
+I'm a developer focused on building **games, backend infrastructure, networked systems, developer tools and modern web applications**.
 
-I also lead technical teams and drive long-term development across multiple organizations.
+My work covers the complete development lifecycle, from early architecture and prototypes to production systems, optimization, deployment and long-term maintenance.
 
----
+My primary areas include **game development**, **backend engineering**, **networking**, **web development**, **3D production** and **technical leadership**.
 
-## 🏢 Leadership and Roles
-In my professional life, I lead and contribute through the following roles:
-- 🏙 **Company Director at Kravnex**
-- 🛡️ **Former Moderator on the Discord Platform**
-- 🛡️ **Former Moderator on the Revolt Platform**
+I focus on building systems that remain understandable, maintainable and performant as projects grow.
 
 ---
 
-## 🌱 Beyond Code
-Outside of development, I recharge through:
-- 🔨 Turning creative work into a lifestyle  
-- 📸 Nature photography and capturing unique scenes  
-- 🌍 Traveling and discovering new cultures  
-- 📚 Reading to expand creativity and technical depth  
-- 🔄 Continuous self improvement  
+## Current Focus
+
+<p>
+  <img src="https://img.shields.io/badge/Game%20Development-Primary-161B22?style=flat-square&logo=unity&logoColor=white" alt="Game Development" />
+  <img src="https://img.shields.io/badge/Backend%20Systems-Primary-161B22?style=flat-square&logo=dotnet&logoColor=white" alt="Backend Systems" />
+  <img src="https://img.shields.io/badge/Networking-Advanced-161B22?style=flat-square&logo=cloudflare&logoColor=white" alt="Networking" />
+  <img src="https://img.shields.io/badge/Web%20Development-Advanced-161B22?style=flat-square&logo=react&logoColor=61DAFB" alt="Web Development" />
+  <img src="https://img.shields.io/badge/3D%20Production-Active-161B22?style=flat-square&logo=blender&logoColor=F5792A" alt="3D Production" />
+</p>
+
+Currently building products, infrastructure and development technology across the **Kravnex** ecosystem.
 
 ---
 
-## 🛠 Tech Toolbox
+## What I Build
 
-| Domain | Stack |
-| ------ | ----- |
-| **Languages** | ![Rust](https://img.shields.io/badge/-Rust-000?style=flat&logo=rust) ![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat&logo=lua&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white) |
-| **Engines and Frameworks** | ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white) ![Unreal](https://img.shields.io/badge/-Unreal%20Engine-000000?style=flat&logo=unrealengine&logoColor=white) ![Godot](https://img.shields.io/badge/-Godot%20Engine-000000?style=flat&logo=godotengine&logoColor=white) |
-| **Web** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![EJS](https://img.shields.io/badge/-EJS-A91E50?style=flat) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000) |
-| **Databases and DevOps** | ![SQL](https://img.shields.io/badge/-SQL-00758F?style=flat) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white) ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white) |
-| **Programming Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white) ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=flat&logo=webstorm&logoColor=white) ![Sublime Text](https://img.shields.io/badge/Sublime%20Text-FF9800?style=flat&logo=sublimetext&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-1AAB6F?style=flat&logo=androidstudio&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=flat&logo=xcode&logoColor=white) |
-| **Modeling and Texturing** | ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white) ![Autodesk Maya](https://img.shields.io/badge/Autodesk%20Maya-0176C3?style=flat&logo=autodesk&logoColor=white) ![3ds Max](https://img.shields.io/badge/3ds%20Max-0071C5?style=flat&logo=autodesk&logoColor=white) ![Cinema 4D](https://img.shields.io/badge/Cinema%204D-011A6A?style=flat&logo=maxon&logoColor=white) ![ZBrush](https://img.shields.io/badge/ZBrush-E28125?style=flat&logo=zbrush&logoColor=white) ![Substance Painter](https://img.shields.io/badge/Substance%20Painter-FF6D00?style=flat&logo=adobe&logoColor=white) ![Quixel Mixer](https://img.shields.io/badge/Quixel%20Mixer-212121?style=flat&logo=quixel&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white) ![VEGAS Pro](https://img.shields.io/badge/VEGAS%20Pro-1A1A1A?style=flat) |
+<details open>
+<summary><b>Game Development</b></summary>
+
+<br>
+
+Gameplay architecture · Multiplayer systems · Game mechanics · Server systems · Editor tooling · Engine development · Prototyping · Performance optimization
+
+</details>
+
+<details>
+<summary><b>Backend & Infrastructure</b></summary>
+
+<br>
+
+REST APIs · Realtime services · Authentication · Database architecture · Service infrastructure · Docker · Deployment pipelines · Scalable backend systems
+
+</details>
+
+<details>
+<summary><b>Web Development</b></summary>
+
+<br>
+
+React · TypeScript · Product interfaces · Dashboards · Internal tools · API integration · Responsive interfaces · Full-stack applications
+
+</details>
+
+<details>
+<summary><b>3D & Creative</b></summary>
+
+<br>
+
+Game-ready assets · Environment modeling · Props · Texturing · Materials · Optimization · Animation workflows · Visual prototyping
+
+</details>
 
 ---
 
-## 🎮 What I Do
-- Build **high performance Unity gameplay systems**  
-- Design **mechanics, balance and economy** for Rust servers  
-- Develop **React based frontend applications**  
-- Create **high quality 3D assets** and animations  
-- Reverse engineer and optimize **Source engine netcode**  
-- Prototype and iterate on new game and software concepts  
+## Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,cpp,rust,ts,js,python,lua,swift&theme=dark" alt="Programming Languages" />
+</p>
+
+### Game Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=unity,unreal,godot&theme=dark" alt="Game Development" />
+</p>
+
+### Web
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,ts,js,nodejs&theme=dark" alt="Web Development" />
+</p>
+
+### Backend, Data & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,nginx,githubactions,linux&theme=dark" alt="Backend, Data and Infrastructure" />
+</p>
+
+### Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea,webstorm,androidstudio,sublime&theme=dark" alt="Development Tools" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" width="48" height="48" alt="Xcode" />
+</p>
+
+### 3D & Design
+
+<p>
+  <img src="https://skillicons.dev/icons?i=blender,ps&theme=dark" alt="3D and Design" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maya/maya-original.svg" width="48" height="48" alt="Autodesk Maya" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" width="48" height="48" alt="3ds Max" />
+</p>
+
+<details>
+<summary><b>Additional creative software</b></summary>
+
+<br>
+
+![Cinema 4D](https://img.shields.io/badge/Cinema%204D-011A6A?style=flat-square\&logo=maxon\&logoColor=white)
+![ZBrush](https://img.shields.io/badge/ZBrush-202020?style=flat-square\&logoColor=white)
+![Substance 3D Painter](https://img.shields.io/badge/Substance%203D%20Painter-1E1E1E?style=flat-square\&logo=adobe\&logoColor=white)
+![Quixel Mixer](https://img.shields.io/badge/Quixel%20Mixer-202020?style=flat-square\&logo=unrealengine\&logoColor=white)
+![VEGAS Pro](https://img.shields.io/badge/VEGAS%20Pro-18181B?style=flat-square\&logoColor=white)
+
+</details>
 
 ---
 
-## 📊 GitHub Analytics
+## Experience
 
-<table align="center">
-  <tr>
-    <td align="center" valign="top">
-      <img
-        alt="GitHub Stats"
-        src="https://stats-bice-nu.vercel.app/api?username=Etherinus&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&include_all_commits=true&count_private=true&refresh=600" />
-    </td>
-    <td align="center" valign="top">
-      <img
-        alt="Top Languages"
-        src="https://stats-bice-nu.vercel.app/api/top-langs/?username=Etherinus&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&langs_count=10&refresh=600" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" valign="top">
-      <img 
-        alt="GitHub Streak" 
-        src="https://github-readme-streak-stats-eight.vercel.app/?user=Etherinus&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&refresh=600" />
-    </td>
-  </tr>
+<details open>
+<summary><b>Kravnex</b></summary>
+
+<br>
+
+### Company Director
+
+Leading technical development and long-term product direction across software, game technology, infrastructure and platform projects.
+
+Key areas of responsibility:
+
+* Technical architecture
+* Product development
+* Engineering decisions
+* Development workflows
+* Infrastructure planning
+* Project direction
+* Long-term ecosystem development
+
+</details>
+
+<details>
+<summary><b>Community & Platform Experience</b></summary>
+
+<br>
+
+* Former Discord Platform Moderator
+* Former Revolt Platform Moderator
+
+</details>
+
+---
+
+## Engineering Interests
+
+```yaml
+game-development:
+  - gameplay-systems
+  - multiplayer
+  - server-architecture
+  - engine-development
+  - performance
+
+backend:
+  - distributed-systems
+  - realtime-services
+  - api-design
+  - infrastructure
+  - databases
+
+web:
+  - react
+  - typescript
+  - product-development
+  - frontend-architecture
+
+creative:
+  - 3d-modeling
+  - texturing
+  - game-assets
+```
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" align="center" valign="top">
+
+<img
+src="https://stats-bice-nu.vercel.app/api?username=Etherinus&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&include_all_commits=true&count_private=true&rank_icon=github&refresh=600"
+alt="GitHub Statistics"
+/>
+
+</td>
+
+<td width="50%" align="center" valign="top">
+
+<img
+src="https://stats-bice-nu.vercel.app/api/top-langs/?username=Etherinus&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&langs_count=8&refresh=600"
+alt="Most Used Languages"
+/>
+
+</td>
+
+</tr>
 </table>
 
+<img
+src="https://github-readme-streak-stats-eight.vercel.app/?user=Etherinus&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&currStreakLabel=58A6FF&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E"
+alt="GitHub Contribution Streak"
+/>
+
+</div>
+
 ---
 
-## 🤝 Let's Connect
+## Beyond Development
 
-[![Mail](https://img.shields.io/badge/-etherinus.developer@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:etherinus.developer@gmail.com) [![Discord](https://img.shields.io/badge/Discord-Etherinus-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/852143636166737920)
+<details>
+<summary><b>A little more about me</b></summary>
 
-Always open to collaborations and ambitious ideas.
+<br>
+
+Outside engineering, I spend time on:
+
+* Photography and capturing interesting environments
+* Traveling and discovering new places
+* Reading and continuous learning
+* 3D and visual experimentation
+* Exploring new technologies
+* Building personal products and ideas
+
+</details>
+
+---
+
+## Contact
+
+<div align="center">
+
+### Interested in building something?
+
+I'm open to interesting technical projects, collaborations and ambitious product ideas.
+
+<br>
+
+[![Email](https://img.shields.io/badge/etherinus%40kravnex.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:etherinus@kravnex.com)
+[![Discord](https://img.shields.io/badge/Etherinus-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)](https://discord.com/users/852143636166737920)
+[![GitHub](https://img.shields.io/badge/@Etherinus-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Etherinus)
+
+</div>
 
 ---
 
 <div align="center">
 
+## Contributions
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Etherinus/Etherinus/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Etherinus/Etherinus/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/Etherinus/Etherinus/output/github-contribution-grid-snake.svg"
+    alt="GitHub contribution snake"
+  />
 </picture>
+
+<br>
+
+<sub>Building games, systems and products one commit at a time.</sub>
 
 </div>
